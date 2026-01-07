@@ -1,0 +1,61 @@
+Código;Producto;Talla;Categoría;Costo Unitario;Precio Unitario
+PR001;Bermuda;S;Ropa;6,59;12,2
+PR002;Bermuda;M;Ropa;7,25;12,94
+PR003;Bermuda;L;Ropa;8,4;13,13
+PR004;Bolso Versátil;Única;Accesorios;17,19;26,85
+PR005;Bolso de Cuero;Única;Accesorios;28,88;48,13
+PR006;Gorra;Única;Accesorios;5,02;7,39
+PR007;Jeans;S;Ropa;11,14;15,91
+PR008;Jeans;M;Ropa;10,32;16,65
+PR009;Jeans;L;Ropa;11,87;17,2
+PR010;Leggings;S;Ropa;5,07;8,31
+PR011;Leggings;M;Ropa;4,43;8,69
+PR012;Leggings;L;Ropa;5,34;9,06
+PR013;Camiseta Estampada;S;Ropa;5,1;7,39
+PR014;Camiseta Estampada;M;Ropa;3,84;7,39
+PR015;Camiseta Estampada;L;Ropa;4,72;7,87
+PR016;Camiseta Lisa;S;Ropa;2,45;4,8
+PR017;Camiseta Lisa;M;Ropa;3,21;5,54
+PR018;Camiseta Lisa;L;Ropa;3,29;6,09
+PR019;Cinturón;Única;Accesorios;6,38;9,24
+PR020;Chaqueta de Cuero;S;Ropa;30,55;55,54
+PR021;Chaqueta de Cuero;M;Ropa;33,09;56,09
+PR022;Chaqueta de Cuero;L;Ropa;34,44;55,56
+PR023;Chaqueta de Jeans;S;Ropa;31,01;46,28
+PR024;Chaqueta de Jeans;M;Ropa;31,29;48,13
+PR025;Chaqueta de Jeans;L;Ropa;28,88;55,54
+PR026;Gafas Cuadradas;Única;Accesorios;36,93;64,8
+PR027;Gafas Redondas;Única;Accesorios;12,22;22,22
+PR028;Tenis Atitas;36;Calzado;28,69;46,28
+PR029;Tenis Atitas;37;Calzado;26,92;47,22
+PR030;Tenis Atitas;38;Calzado;28,4;48,13
+PR031;Tenis Chunky;36;Calzado;29,04;45,37
+PR032;Tenis Chunky;37;Calzado;28,24;46,3
+PR033;Tenis Chunky;38;Calzado;28,4;48,13
+PR034;Vestido Corto;S;Ropa;10,99;16,65
+PR035;Vestido Corto;M;Ropa;8,63;16,93
+PR036;Vestido Corto;L;Ropa;9,7;17,31
+PR037;Vestido Largo;S;Ropa;12,96;25,93
+PR038;Vestido Largo;M;Ropa;18,26;26,46
+PR039;Vestido Largo;L;Ropa;16,76;27,04
+PR040;Camiseta Confort;S;Ropa;8,69;12,96
+PR041;Camiseta Confort;M;Ropa;6,3;10,17
+PR042;Camiseta Confort;L;Ropa;5,49;10,17
+PR043;Vestido Floral;S;Ropa;6,98;13,43
+PR044;Vestido Floral;M;Ropa;9,26;13,43
+PR045;Vestido Floral;L;Ropa;7,92;13,43
+PR046;Chaqueta de Cuero;S;Ropa;31,67;53,69
+PR047;Chaqueta de Cuero;M;Ropa;35,97;53,69
+PR048;Chaqueta de Cuero;L;Ropa;31,67;53,69
+PR049;Camiseta a Rayas;S;Ropa;3,47;6,09
+PR050;Camiseta a Rayas;M;Ropa;4,14;6,09
+PR051;Camiseta a Rayas;L;Ropa;3,84;6,09
+PR052;Falda Plisada;S;Ropa;5,91;9,24
+PR053;Falda Plisada;M;Ropa;5,36;9,24
+PR054;Falda Plisada;L;Ropa;6,47;9,24
+PR055;Sandalia Plana;35;Calzado;10,82;16,65
+PR056;Sandalia Plana;36;Calzado;8,49;16,65
+PR057;Sandalia Plana;37;Calzado;8,99;16,65
+PR058;Pantalón de Vestir;S;Ropa;21;33,33
+PR059;Pantalón de Vestir;M;Ropa;17,67;33,33
+PR060;Pantalón de Vestir;L;Ropa;22,33;33,33
